@@ -1,3 +1,2 @@
 # MERN-ChapApp
-# chat-app
-# chat-app
+Run npm run dev to start the app
